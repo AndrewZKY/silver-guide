@@ -1,21 +1,21 @@
 ---
 # Display name
-title: 张嵩淮
+title: S. A. K. ZHANG 张嵩淮
 
 # Full Name (for SEO)
-first_name: Nelson
-last_name: Bighetti
+first_name: 嵩淮
+last_name: 张
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position
-role: Professor of Artificial Intelligence
+role: 嵩投集团创始人 & CEO
 
 # Organizations/Affiliations
 organizations:
-  - name: Stanford University
-    url: ''
+  - name: 香港中文大学/吉林大学
+    url: 'https://www.cuhk.edu.hk/chinese/'
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
