@@ -1,6 +1,6 @@
 ---
 # Display name
-title: S. A. K. ZHANG 张嵩淮
+title: S. K. ZHANG 张嵩淮
 
 # Full Name (for SEO)
 first_name: 嵩淮
@@ -10,11 +10,11 @@ last_name: 张
 superuser: true
 
 # Role/position
-role: 嵩投集团创始人 & CEO
+role: Founder & CEO
 
 # Organizations/Affiliations
 organizations:
-  - name: 香港中文大学/吉林大学
+  - name: The Chinese University of Hong Kong
     url: 'https://www.cuhk.edu.hk/chinese/'
 
 # Short bio (displayed in user profile at end of posts)
@@ -27,15 +27,15 @@ interests:
 
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: MSc in Financial Technology
+      institution: The Chinese University of Hong Kong
+      year: 2025
+    - course: BEc in Finance
+      institution: Jilin University
+      year: 2021
+    - course: BSc in Computer Science
+      institution: Jilin University
+      year: 2023
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
@@ -44,7 +44,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:test@example.org'
+    link: 'andrewzhangky@eoutlook.com'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
